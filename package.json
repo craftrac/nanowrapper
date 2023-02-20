@@ -1,0 +1,31 @@
+{
+  "type": "module",
+  "name": "nanowrapper",
+  "version": "0.0.1",
+  "description": "A data type enforcing wrapper for couchdb nano with schemas and methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craftrac/nanowrapper.git"
+  },
+  "keywords": [
+    "nano",
+    "wrapper",
+    "couchdb"
+  ],
+  "author": "craftrac",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/craftrac/nanowrapper/issues"
+  },
+  "homepage": "https://github.com/craftrac/nanowrapper#readme",
+  "dependencies": {
+    "nano": "^10.1.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7"
+  }
+}
